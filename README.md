@@ -9,4 +9,4 @@
 
 
 
-<img width="400" height="300" src="./png/2주차실습과제.png"></img>
+<img width="500" height="300" src="./png/2주차실습과제.png"></img>

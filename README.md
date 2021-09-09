@@ -9,4 +9,4 @@
 
 
 
-<img width="400" height="300" src="./png/더보이즈.jpg"></img>
+<img width="400" height="300" src="./png/2주차실습.png"></img>

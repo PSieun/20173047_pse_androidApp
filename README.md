@@ -8,4 +8,4 @@
 
 
 
-<img width="10"height="20"src="./png/주연이.jpg"></img>
+<img width="300" height="300" src="./png/주연이.jpg"></img>

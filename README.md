@@ -51,3 +51,12 @@
 <img width="500" height="300" src="./png/5주차실습과제_2.png"></img>
 
 
+
+## 6주차
+  - 스크롤 바 만들기
+  - 이미지의 넓이와 높이 Toast로 띄우기
+
+<img width="300" height="100" src="./png/6주차실습과제_1.png"></img>  <img width="300" height="100" src="./png/6주차실습과제_2.png"></img>
+<img width="300" height="100" src="./png/6주차실습과제_3.png"></img>  <img width="300" height="100" src="./png/6주차실습과제_4.png"></img>
+
+

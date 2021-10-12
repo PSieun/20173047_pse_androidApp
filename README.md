@@ -60,3 +60,12 @@
 <img width="500" height="300" src="./png/6주차실습과제_3.png"></img>  <img width="500" height="300" src="./png/6주차실습과제_4.png"></img>
 
 
+## 7주차
+  - 메세지 전송버튼, 닫기 버튼, 입력창
+
+<img width="500" height="300" src="./png/7주차실습과제_1.png"></img>
+<img width="500" height="300" src="./png/7주차실습과제_2.png"></img>
+<img width="500" height="300" src="./png/7주차실습과제_3.png"></img>
+
+
+

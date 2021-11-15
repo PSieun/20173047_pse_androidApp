@@ -86,8 +86,8 @@
 
 ## 11주차
   - 웹으로 요청하기<br>
-<img width="450" height="250" src="./png/11주차실습과제.png"></img>
-<img width="450" height="250" src="./png/11주차실습과제_2.png"></img>
+<img width="450" height="250" src="./png/20173047_11주차실습과제.png"></img>
+<img width="450" height="250" src="./png/20173047_11주차실습과제_2.png"></img>
 
 
 
